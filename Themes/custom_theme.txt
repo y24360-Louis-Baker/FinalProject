@@ -1,0 +1,4 @@
+darkc
+#222222
+#ffffff
+#c3c3c3
