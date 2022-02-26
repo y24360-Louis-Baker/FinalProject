@@ -1,1 +1,1 @@
-Themes\dark_theme.txt
+Themes\custom_theme.txt

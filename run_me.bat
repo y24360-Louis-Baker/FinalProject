@@ -1,0 +1,1 @@
+"C:\Users\Rende\AppData\Local\Programs\Python\Python37\python.exe" "C:\Users\Rende\PycharmProjects\project_work_complete\main.py"

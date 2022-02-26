@@ -1,4 +1,4 @@
 darkc
-#222222
-#ffffff
-#c3c3c3
+#39374a
+#cfc9ff
+#a196ff

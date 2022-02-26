@@ -1,4 +1,3 @@
-# This is used for any colour editing code
 import cv2# used for images
 import numpy as np
 
